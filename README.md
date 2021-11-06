@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ftl-ops
 - 👀 I’m interested in frontend software development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and taking CS50 online program
 - 💞️ I’m looking to collaborate on web projects
 - 📫 Send me an email daman0797@gmail.com
 
