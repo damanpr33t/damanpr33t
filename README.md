@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ftl-ops
+- 👋 Hi, I’m Damanpreet
 - 👀 I’m interested in frontend software development
 - 🌱 I’m currently learning JavaScript and taking CS50 online program
 - 💞️ I’m looking to collaborate on web projects
