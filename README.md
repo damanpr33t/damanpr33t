@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Damanpreet. Welcome to my profile!
 - I’m interested in frontend software development
-- I’m constantly improving my JavaScript and React skills
+- I’m constantly improving my HTML, CSS, JavaScript and React skills
 - You can checkout my portfolio at https://damanpr33t.github.io/
 - Connect with me on linkedIn www.linkedin.com/in/damanpreet-singh-178716217
 - Send me an email daman0797@gmail.com
