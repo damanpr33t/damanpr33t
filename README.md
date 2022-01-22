@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Damanpreet
-- 👀 I’m interested in frontend software development
-- 🌱 I’m currently learning JavaScript and taking CS50 online program
-- 💞️ I’m looking to collaborate on web projects
-- 📫 Send me an email daman0797@gmail.com
+- 👋 Hi there, I’m Damanpreet. Welcome to my profile!
+- I’m interested in frontend software development
+- I’m constantly improving my JavaScript and React skills
+- You can checkout my portfolio at https://damanpr33t.github.io/
+- Connect with me on linkedIn www.linkedin.com/in/damanpreet-singh-178716217
+- Send me an email daman0797@gmail.com
 
 <!---
 ftl-ops/ftl-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
